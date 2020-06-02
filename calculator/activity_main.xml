@@ -163,7 +163,7 @@
         tools:layout_editor_absoluteX="17dp" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/ed1"
         android:layout_width="374dp"
         android:layout_height="81dp"
         android:ems="10"
