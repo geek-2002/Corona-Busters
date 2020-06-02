@@ -52,7 +52,7 @@
         tools:layout_editor_absoluteX="212dp" />
 
     <Button
-        android:id="@+id/btnsub"
+        android:id="@+id/btnSub"
         android:layout_width="84dp"
         android:layout_height="75dp"
         android:layout_marginTop="36dp"
@@ -62,7 +62,7 @@
         tools:layout_editor_absoluteX="119dp" />
 
     <Button
-        android:id="@+id/btnadd"
+        android:id="@+id/btnAdd"
         android:layout_width="84dp"
         android:layout_height="75dp"
         android:layout_marginTop="36dp"
