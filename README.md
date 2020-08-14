@@ -1,2 +1,2 @@
 #  kotlin app 👩‍💻 
-## Google 30-days kotlin app project
+## Google 30-days kotlin app project.
